@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bezier Curves all Callculated in Metal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-01-26T06:15:24Z",
+            "owner": "eldade",
+            "repo": "ios_metal_bezier_renderer",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph View",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-09-01T06:35:39Z",
+            "owner": "vegather",
+            "repo": "GraphView",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hand drawing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-08-08T22:22:42Z",
+            "owner": "owengombas",
+            "repo": "hand-drawing-swift-metal",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "charting library using metal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2017-02-16T06:08:57Z",
+            "owner": "wfreaks",
+            "repo": "metal_chart",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metal Charting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2017-05-09T18:43:35Z",
+            "owner": "evadne",
+            "repo": "metrics",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "2D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "3D City Models Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-18T09:09:09Z",
+            "owner": "tudelft3d",
+            "repo": "azul",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CesiumKit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-04-16T15:52:21Z",
+            "owner": "tokyovigilante",
+            "repo": "CesiumKit",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metal-SDF-Examples",
+          "description": "(Both 3D and 2D)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Metal",
+            "last_commit": "2024-06-04T06:33:00Z",
+            "owner": "shu223",
+            "repo": "Metal-SDF-Examples",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AR MultiPendulum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-10-20T17:40:20Z",
+            "owner": "philipturner",
+            "repo": "ar-multipendulum",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetalGlobe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-10-26T12:49:05Z",
+            "owner": "fixique",
+            "repo": "MetalGlobe",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sky, Water, Terrain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-04-27T07:08:05Z",
+            "owner": "ryanmilvenan",
+            "repo": "advanced_graphics",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "3D"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:08.074Z",
+    "original_repository": "adamnemecek/awesome-metal",
+    "original_repository_sha": "4044cc53ab7c31ed308d8b48d956d96b2be1cede",
+    "enhanced_repository": "enhansome/enhansome-metal",
+    "enhanced_repository_description": null,
+    "title": "Awesome Metal with stars"
+  }
+}
