@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-18T09:09:09Z",
+            "last_commit": "2026-08-13T22:19:45Z",
             "owner": "tudelft3d",
             "repo": "azul",
             "stars": 121
@@ -168,7 +168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:01:46.218Z",
+    "last_updated": "2026-08-14T06:58:06.019Z",
     "original_repository": "adamnemecek/awesome-metal",
     "original_repository_sha": "4044cc53ab7c31ed308d8b48d956d96b2be1cede",
     "enhanced_repository": "enhansome/enhansome-metal",

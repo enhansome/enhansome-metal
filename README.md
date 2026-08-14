@@ -24,7 +24,7 @@ A collection of Metal and MetalKit projects and resources
 
 ## 3D
 
-* [3D City Models Viewer](https://github.com/tudelft3d/azul) ⭐ 121 | 🐛 0 | 🌐 C++ | 📅 2026-06-18
+* [3D City Models Viewer](https://github.com/tudelft3d/azul) ⭐ 121 | 🐛 0 | 🌐 C++ | 📅 2026-08-13
 * [CesiumKit](https://github.com/tokyovigilante/CesiumKit) ⭐ 95 | 🐛 7 | 🌐 Swift | 📅 2021-04-16
 * [Metal-SDF-Examples](https://github.com/shu223/Metal-SDF-Examples) ⭐ 81 | 🐛 0 | 🌐 Metal | 📅 2024-06-04 (Both 3D and 2D)
 * [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum) ⭐ 43 | 🐛 0 | 🌐 Swift | 📅 2021-10-20
@@ -37,13 +37,13 @@ A collection of Metal and MetalKit projects and resources
 
 ## Links
 
-* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,185 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
+* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,191 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
 
 # Unorganized
 
 I don't know how to ogranize or name these. This can just be the default catch at the end of the page. Just dump links here if you don't have time to properly place. This all is an experiment in a shared Slack note. Everyone can and should edit to make better.
 
-* [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) ⭐ 17,931 | 🐛 64 | 🌐 Objective-C | 📅 2026-08-08
+* [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) ⭐ 17,932 | 🐛 65 | 🌐 Objective-C | 📅 2026-08-13
 * [Fluid dynamics](https://github.com/andreipitis/FluidDynamicsMetal) ⭐ 200 | 🐛 1 | 🌐 Swift | 📅 2022-04-24
 * [GPU Quaternions performance tests](https://github.com/endavid/VidEngine) ⭐ 111 | 🐛 0 | 🌐 Swift | 📅 2025-06-20
 * [Signed Distance Function](https://github.com/novocodev/SDFMetalDemo) ⭐ 31 | 🐛 3 | 🌐 Objective-C | 📅 2020-05-14
@@ -65,4 +65,4 @@ I don't know how to ogranize or name these. This can just be the default catch a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
