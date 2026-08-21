@@ -132,7 +132,7 @@
                 "archived": false,
                 "id": 72016361,
                 "language": "C++",
-                "last_commit": "2026-08-14T15:14:27Z",
+                "last_commit": "2026-08-21T03:38:15Z",
                 "owner": "tudelft3d",
                 "repo": "azul",
                 "stars": 121
@@ -233,10 +233,10 @@
             "archived": false,
             "id": 1580036,
             "language": "Objective-C",
-            "last_commit": "2026-08-20T01:10:38Z",
+            "last_commit": "2026-08-20T23:02:03Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17947
+            "stars": 17950
           }
         },
         {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:01:17.618Z",
+    "last_updated": "2026-08-21T06:02:11.044Z",
     "original_repository": "adamnemecek/awesome-metal",
     "original_repository_id": 108441077,
     "original_repository_sha": "4044cc53ab7c31ed308d8b48d956d96b2be1cede",
