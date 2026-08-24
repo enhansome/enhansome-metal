@@ -217,6 +217,50 @@
           "description": null,
           "node_type": "group",
           "title": "3D"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Satin",
+              "description": "is a 3D graphics framework (inspired by threejs) that helps designers and developers work with Apple's Metal API. Satin provides helpful classes for creating meshes, materials, buffers, uniforms, geometries, pipelines (shaders), compute kernels, and more. It helps reduce tons of boilerplate code and provides a structure way to work with Metal. In active development.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 200550855,
+                "language": "Swift",
+                "last_commit": "2025-04-15T23:40:40Z",
+                "owner": "Hi-Rez",
+                "repo": "Satin",
+                "stars": 851
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/terkelg/awesome-creative-coding",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72586805,
+                "language": "HTML",
+                "last_commit": "2026-07-21T15:01:30Z",
+                "owner": "terkelg",
+                "repo": "awesome-creative-coding",
+                "stars": 15240
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Links"
         }
       ],
       "title": "Projects"
@@ -236,7 +280,7 @@
             "last_commit": "2026-08-23T07:10:20Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17959
+            "stars": 17962
           }
         },
         {
@@ -391,10 +435,61 @@
         }
       ],
       "title": "Unorganized"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/au6155/PhotoApp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94175635,
+            "language": "Swift",
+            "last_commit": "2017-08-30T21:56:49Z",
+            "owner": "ProtoProtonas",
+            "repo": "PhotoApp",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/safx/waifu2x-metal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38252435,
+            "language": "Swift",
+            "last_commit": "2019-02-19T14:37:45Z",
+            "owner": "safx",
+            "repo": "waifu2x-metal",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ximhear/roulette",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96975503,
+            "language": "Swift",
+            "last_commit": "2018-04-19T08:04:53Z",
+            "owner": "ximhear",
+            "repo": "roulette",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Image Editor"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:07:52.776Z",
+    "last_updated": "2026-08-24T14:33:42.135Z",
     "original_repository": "adamnemecek/awesome-metal",
     "original_repository_id": 108441077,
     "original_repository_sha": "4044cc53ab7c31ed308d8b48d956d96b2be1cede",
