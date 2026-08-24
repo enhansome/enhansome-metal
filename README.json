@@ -233,10 +233,10 @@
             "archived": false,
             "id": 1580036,
             "language": "Objective-C",
-            "last_commit": "2026-08-23T05:54:45Z",
+            "last_commit": "2026-08-23T07:10:20Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17954
+            "stars": 17959
           }
         },
         {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:00:02.643Z",
+    "last_updated": "2026-08-24T06:07:52.776Z",
     "original_repository": "adamnemecek/awesome-metal",
     "original_repository_id": 108441077,
     "original_repository_sha": "4044cc53ab7c31ed308d8b48d956d96b2be1cede",
