@@ -244,7 +244,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/terkelg/awesome-creative-coding",
+              "title": "terkelg/awesome-creative-coding",
               "description": null,
               "children": [],
               "repo_info": {
@@ -254,7 +254,7 @@
                 "last_commit": "2026-07-21T15:01:30Z",
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15240
+                "stars": 15241
               }
             }
           ],
@@ -277,7 +277,7 @@
             "archived": false,
             "id": 1580036,
             "language": "Objective-C",
-            "last_commit": "2026-08-23T07:10:20Z",
+            "last_commit": "2026-08-25T04:53:00Z",
             "owner": "gnachman",
             "repo": "iTerm2",
             "stars": 17962
@@ -295,7 +295,7 @@
             "last_commit": "2022-04-24T11:44:52Z",
             "owner": "andreipitis",
             "repo": "FluidDynamicsMetal",
-            "stars": 200
+            "stars": 201
           }
         },
         {
@@ -330,7 +330,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mdejong/MetalHuffman",
+          "title": "mdejong/MetalHuffman",
           "description": null,
           "children": [],
           "repo_info": {
@@ -441,7 +441,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/au6155/PhotoApp",
+          "title": "ProtoProtonas/PhotoApp",
           "description": null,
           "children": [],
           "repo_info": {
@@ -456,7 +456,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/safx/waifu2x-metal",
+          "title": "safx/waifu2x-metal",
           "description": null,
           "children": [],
           "repo_info": {
@@ -471,7 +471,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ximhear/roulette",
+          "title": "ximhear/roulette",
           "description": null,
           "children": [],
           "repo_info": {
@@ -489,7 +489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:42.135Z",
+    "last_updated": "2026-08-25T06:24:40.416Z",
     "original_repository": "adamnemecek/awesome-metal",
     "original_repository_id": 108441077,
     "original_repository_sha": "4044cc53ab7c31ed308d8b48d956d96b2be1cede",
