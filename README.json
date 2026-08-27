@@ -132,7 +132,7 @@
                 "archived": false,
                 "id": 72016361,
                 "language": "C++",
-                "last_commit": "2026-08-26T00:18:44Z",
+                "last_commit": "2026-08-26T23:22:01Z",
                 "owner": "tudelft3d",
                 "repo": "azul",
                 "stars": 121
@@ -254,7 +254,7 @@
                 "last_commit": "2026-07-21T15:01:30Z",
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15240
+                "stars": 15241
               }
             }
           ],
@@ -277,10 +277,10 @@
             "archived": false,
             "id": 1580036,
             "language": "Objective-C",
-            "last_commit": "2026-08-26T05:18:01Z",
+            "last_commit": "2026-08-27T00:18:47Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17965
+            "stars": 17973
           }
         },
         {
@@ -489,9 +489,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:04:59.563Z",
-    "original_repository": "adamnemecek/awesome-metal",
-    "original_repository_id": 108441077,
+    "last_updated": "2026-08-27T11:52:10.890Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 108441077,
+      "language": null,
+      "last_commit": "2024-03-22T17:38:38Z",
+      "owner": "adamnemecek",
+      "repo": "awesome-metal",
+      "stars": 227
+    },
     "original_repository_sha": "4044cc53ab7c31ed308d8b48d956d96b2be1cede",
     "enhanced_repository": "enhansome/enhansome-metal",
     "enhanced_repository_description": null,
