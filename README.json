@@ -16,7 +16,8 @@
             "owner": "metal-by-example",
             "repo": "sample-code",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "carolight",
             "repo": "MBEsample-code",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         }
       ],
       "title": "Blogs and books"
@@ -54,7 +56,8 @@
                 "owner": "eldade",
                 "repo": "ios_metal_bezier_renderer",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             },
             {
               "node_type": "item",
@@ -69,7 +72,8 @@
                 "owner": "vegather",
                 "repo": "GraphView",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "owengombas",
                 "repo": "hand-drawing-swift-metal",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "wfreaks",
                 "repo": "metal_chart",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "evadne",
                 "repo": "metrics",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             }
           ],
           "description": null,
@@ -132,11 +139,12 @@
                 "archived": false,
                 "id": 72016361,
                 "language": "C++",
-                "last_commit": "2026-08-26T23:22:01Z",
+                "last_commit": "2026-08-27T19:57:58Z",
                 "owner": "tudelft3d",
                 "repo": "azul",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "tokyovigilante",
                 "repo": "CesiumKit",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "shu223",
                 "repo": "Metal-SDF-Examples",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "philipturner",
                 "repo": "ar-multipendulum",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "fixique",
                 "repo": "MetalGlobe",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "ryanmilvenan",
                 "repo": "advanced_graphics",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             }
           ],
           "description": null,
@@ -233,7 +246,8 @@
                 "owner": "Hi-Rez",
                 "repo": "Satin",
                 "stars": 851
-              }
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             }
           ],
           "description": null,
@@ -254,8 +268,9 @@
                 "last_commit": "2026-07-21T15:01:30Z",
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15242
-              }
+                "stars": 15248
+              },
+              "first_seen": "2026-08-28T17:41:53.339Z"
             }
           ],
           "description": null,
@@ -277,11 +292,12 @@
             "archived": false,
             "id": 1580036,
             "language": "Objective-C",
-            "last_commit": "2026-08-27T00:18:47Z",
+            "last_commit": "2026-08-28T07:08:36Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17977
-          }
+            "stars": 17984
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -296,7 +312,8 @@
             "owner": "andreipitis",
             "repo": "FluidDynamicsMetal",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -311,7 +328,8 @@
             "owner": "endavid",
             "repo": "VidEngine",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -326,7 +344,8 @@
             "owner": "novocodev",
             "repo": "SDFMetalDemo",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -341,7 +360,8 @@
             "owner": "mdejong",
             "repo": "MetalHuffman",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -356,7 +376,8 @@
             "owner": "Kosalos",
             "repo": "MandelBulbQuad",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -371,7 +392,8 @@
             "owner": "Kosalos",
             "repo": "MarchingCubes-Mac-OSX",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -386,7 +408,8 @@
             "owner": "Kosalos",
             "repo": "Atom_IOS",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -401,7 +424,8 @@
             "owner": "Kosalos",
             "repo": "Dynamical_Stereo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -416,7 +440,8 @@
             "owner": "hyperjeff",
             "repo": "CocoaConfChicago2017",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -431,7 +456,8 @@
             "owner": "Kosalos",
             "repo": "Dynamical_IOS",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         }
       ],
       "title": "Unorganized"
@@ -452,7 +478,8 @@
             "owner": "ProtoProtonas",
             "repo": "PhotoApp",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -467,7 +494,8 @@
             "owner": "safx",
             "repo": "waifu2x-metal",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         },
         {
           "node_type": "item",
@@ -482,14 +510,15 @@
             "owner": "ximhear",
             "repo": "roulette",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T17:41:53.339Z"
         }
       ],
       "title": "Image Editor"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:47:21.896Z",
+    "last_updated": "2026-08-28T17:41:53.339Z",
     "original_repository_info": {
       "archived": false,
       "id": 108441077,
