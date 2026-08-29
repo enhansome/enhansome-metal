@@ -405,7 +405,7 @@
                 "open_issues": 8,
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15255,
+                "stars": 15256,
                 "topics": [
                   "3d-graphics",
                   "art",
@@ -451,11 +451,11 @@
             "id": 1580036,
             "language": "Objective-C",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-29T01:34:49Z",
-            "open_issues": 64,
+            "last_commit": "2026-08-29T07:10:15Z",
+            "open_issues": 65,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17985,
+            "stars": 17986,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:26.491Z",
+    "last_updated": "2026-08-29T11:46:57.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Metal and MetalKit projects and resources. Very much work in progress.",
