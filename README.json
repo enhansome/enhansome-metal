@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 136119706,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2020-06-13T08:15:21Z",
+            "open_issues": 9,
             "owner": "metal-by-example",
             "repo": "sample-code",
-            "stars": 264
+            "stars": 264,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample code for the Metal by Example book",
+            "homepage": null,
             "id": 47908830,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2017-08-01T07:34:18Z",
+            "open_issues": 0,
             "owner": "carolight",
             "repo": "MBEsample-code",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         }
@@ -50,12 +60,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An optimized Metal-based Bezier curve renderer",
+                "homepage": null,
                 "id": 73160584,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-01-26T06:15:24Z",
+                "open_issues": 1,
                 "owner": "eldade",
                 "repo": "ios_metal_bezier_renderer",
-                "stars": 206
+                "stars": 206,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             },
@@ -66,12 +81,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, elegant graph view for iOS and macOS.",
+                "homepage": null,
                 "id": 52896733,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-09-01T06:35:39Z",
+                "open_issues": 2,
                 "owner": "vegather",
                 "repo": "GraphView",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             },
@@ -82,12 +102,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✏️ Drawing engine with Swift and Metal (GPU)",
+                "homepage": null,
                 "id": 200394099,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-08-08T22:22:42Z",
+                "open_issues": 1,
                 "owner": "owengombas",
                 "repo": "hand-drawing-swift-metal",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "cpu",
+                  "draw",
+                  "drawing",
+                  "gpu",
+                  "metal",
+                  "optimized",
+                  "performance",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             },
@@ -98,12 +132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An iOS charting library using metal",
+                "homepage": null,
                 "id": 72710448,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2017-02-16T06:08:57Z",
+                "open_issues": 0,
                 "owner": "wfreaks",
                 "repo": "metal_chart",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             },
@@ -114,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Metal Charting",
+                "homepage": null,
                 "id": 90678322,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2017-05-09T18:43:35Z",
+                "open_issues": 0,
                 "owner": "evadne",
                 "repo": "metrics",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             }
@@ -137,12 +181,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D city model viewer for macOS and iOS",
+                "homepage": null,
                 "id": 72016361,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T19:57:58Z",
+                "open_issues": 0,
                 "owner": "tudelft3d",
                 "repo": "azul",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "3d-city-model",
+                  "azul",
+                  "cgal",
+                  "citygml",
+                  "cityjson",
+                  "gml",
+                  "gplv3",
+                  "indoorgml",
+                  "metal",
+                  "obj",
+                  "off",
+                  "poly",
+                  "pugixml"
+                ]
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             },
@@ -153,12 +216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS/OS X port of the Cesium WebGL virtual globe project - cesiumjs.org",
+                "homepage": null,
                 "id": 20120345,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-16T15:52:21Z",
+                "open_issues": 7,
                 "owner": "tokyovigilante",
                 "repo": "CesiumKit",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             },
@@ -169,12 +237,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shape Animation Examples using SDF with MSL (Metal Shader Language)",
+                "homepage": null,
                 "id": 775147574,
                 "language": "Metal",
+                "license": "MIT",
                 "last_commit": "2024-06-04T06:33:00Z",
+                "open_issues": 0,
                 "owner": "shu223",
                 "repo": "Metal-SDF-Examples",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "ios",
+                  "macos",
+                  "metal",
+                  "metal-shader",
+                  "msl",
+                  "sdf",
+                  "sdf-2d",
+                  "swift",
+                  "swiftui",
+                  "visionos",
+                  "watchos"
+                ]
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             },
@@ -185,12 +270,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The first affordable AR headset experience",
+                "homepage": "https://philipturner.github.io/first-affordable-ar-headset",
                 "id": 400366487,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-10-20T17:40:20Z",
+                "open_issues": 0,
                 "owner": "philipturner",
                 "repo": "ar-multipendulum",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "augmented-reality",
+                  "google-cardboard",
+                  "gpgpu",
+                  "ios",
+                  "metal",
+                  "swift",
+                  "virtual-reality"
+                ]
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             },
@@ -201,12 +299,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple demo project with Metal on Swift ",
+                "homepage": null,
                 "id": 87355282,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-10-26T12:49:05Z",
+                "open_issues": 0,
                 "owner": "fixique",
                 "repo": "MetalGlobe",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "3d",
+                  "3d-graphics",
+                  "metal",
+                  "metalkit",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             },
@@ -217,12 +326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My project for advanced graphics",
+                "homepage": null,
                 "id": 56181256,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2016-04-27T07:08:05Z",
+                "open_issues": 0,
                 "owner": "ryanmilvenan",
                 "repo": "advanced_graphics",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             }
@@ -240,12 +354,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A 3D Graphics Framework built on Apple's Metal",
+                "homepage": null,
                 "id": 200550855,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-04-15T23:40:40Z",
+                "open_issues": 0,
                 "owner": "Hi-Rez",
                 "repo": "Satin",
-                "stars": 851
+                "stars": 851,
+                "topics": [
+                  "3d",
+                  "3d-graphics-framework",
+                  "apple-metal",
+                  "augmented-reality",
+                  "gfx",
+                  "graphics",
+                  "metal",
+                  "metalapi",
+                  "metalkit",
+                  "satin",
+                  "shaders",
+                  "swift",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             }
@@ -263,12 +396,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
+                "homepage": null,
                 "id": 72586805,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-07-21T15:01:30Z",
+                "open_issues": 8,
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15248
+                "stars": 15255,
+                "topics": [
+                  "3d-graphics",
+                  "art",
+                  "awesome",
+                  "awesome-list",
+                  "computer-graphics",
+                  "creative-coding",
+                  "data-visualization",
+                  "design",
+                  "generative-art",
+                  "graphics-programming",
+                  "information-visualization",
+                  "interaction-design",
+                  "list",
+                  "programming-graphics",
+                  "resources",
+                  "shaders",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
             }
@@ -290,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
+            "homepage": "https://iterm2.com/",
             "id": 1580036,
             "language": "Objective-C",
-            "last_commit": "2026-08-28T07:08:36Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T01:34:49Z",
+            "open_issues": 64,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17984
+            "stars": 17985,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -306,12 +467,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fluid dynamics implementation using Metal for iOS and OSX.",
+            "homepage": null,
             "id": 114469290,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-04-24T11:44:52Z",
+            "open_issues": 1,
             "owner": "andreipitis",
             "repo": "FluidDynamicsMetal",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "fluid-dynamics",
+              "fluid-simulation",
+              "ios",
+              "metal",
+              "osx",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -322,12 +495,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D graphics for iOS using Metal and Swift",
+            "homepage": null,
             "id": 67071724,
             "language": "Swift",
+            "license": null,
             "last_commit": "2025-06-20T16:13:33Z",
+            "open_issues": 0,
             "owner": "endavid",
             "repo": "VidEngine",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "gpu",
+              "ios",
+              "metal",
+              "metalkit",
+              "shaders",
+              "swift",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -338,12 +524,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Signed Distance Bounds renderer using Apple's Metal compute pipeline",
+            "homepage": null,
             "id": 60769353,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2020-05-14T20:17:32Z",
+            "open_issues": 3,
             "owner": "novocodev",
             "repo": "SDFMetalDemo",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -354,12 +545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GPU huffman decoder for iOS on top of Metal",
+            "homepage": null,
             "id": 113251717,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2018-12-12T20:09:16Z",
+            "open_issues": 0,
             "owner": "mdejong",
             "repo": "MetalHuffman",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -370,12 +566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MandelBulb rendered as a Point Cloud for IOS, uses Swift and Metal",
+            "homepage": null,
             "id": 118736061,
             "language": "Swift",
+            "license": null,
             "last_commit": "2021-05-31T04:59:24Z",
+            "open_issues": 0,
             "owner": "Kosalos",
             "repo": "MandelBulbQuad",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -386,12 +587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 119207313,
             "language": "Swift",
+            "license": null,
             "last_commit": "2019-09-26T05:25:30Z",
+            "open_issues": 0,
             "owner": "Kosalos",
             "repo": "MarchingCubes-Mac-OSX",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -402,12 +608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Timothy Chan 3D Hull used to render proton shells",
+            "homepage": null,
             "id": 119215415,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-06-01T18:31:50Z",
+            "open_issues": 0,
             "owner": "Kosalos",
             "repo": "Atom_IOS",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -418,12 +629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-eyed stereo rendition of Dynamical System, for others like me who can't get enough of 3D.",
+            "homepage": null,
             "id": 120969933,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-12-24T18:36:53Z",
+            "open_issues": 0,
             "owner": "Kosalos",
             "repo": "Dynamical_Stereo",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -434,12 +650,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compute Kernels with Metal and Swift",
+            "homepage": null,
             "id": 89016218,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2017-04-21T19:32:47Z",
+            "open_issues": 0,
             "owner": "hyperjeff",
             "repo": "CocoaConfChicago2017",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -450,12 +671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamical Systems for IOS iPads, using Swift and Metal.",
+            "homepage": null,
             "id": 120871091,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-04-03T00:24:15Z",
+            "open_issues": 0,
             "owner": "Kosalos",
             "repo": "Dynamical_IOS",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         }
@@ -472,12 +698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple image editing software for macOS",
+            "homepage": null,
             "id": 94175635,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-08-30T21:56:49Z",
+            "open_issues": 0,
             "owner": "ProtoProtonas",
             "repo": "PhotoApp",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -488,12 +719,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sample implementation of waifu2x for Metal / OS X",
+            "homepage": "http://safx-dev.blogspot.jp/2015/07/metalwaifu2x.html",
             "id": 38252435,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-02-19T14:37:45Z",
+            "open_issues": 1,
             "owner": "safx",
             "repo": "waifu2x-metal",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "metal",
+              "swift",
+              "waifu2x"
+            ]
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         },
@@ -504,12 +744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift로 구현한 Roulette - Metal구현, Layer Animation 구현",
+            "homepage": null,
             "id": 96975503,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-04-19T08:04:53Z",
+            "open_issues": 0,
             "owner": "ximhear",
             "repo": "roulette",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
         }
@@ -518,15 +763,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:41:53.339Z",
+    "last_updated": "2026-08-29T04:48:26.491Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of Metal and MetalKit projects and resources. Very much work in progress.",
+      "homepage": null,
       "id": 108441077,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-22T17:38:38Z",
+      "open_issues": 2,
       "owner": "adamnemecek",
       "repo": "awesome-metal",
-      "stars": 227
+      "stars": 227,
+      "topics": [
+        "awesome-list",
+        "gpu",
+        "gpu-programming",
+        "graphics",
+        "graphics-programming",
+        "metal",
+        "metalkit",
+        "resources"
+      ]
     },
     "original_repository_sha": "4044cc53ab7c31ed308d8b48d956d96b2be1cede",
     "enhanced_repository": "enhansome/enhansome-metal",
