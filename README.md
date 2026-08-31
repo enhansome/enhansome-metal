@@ -37,13 +37,13 @@ A collection of Metal and MetalKit projects and resources
 
 ## Links
 
-* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,259 | 🐛 8 | 🌐 HTML | 📅 2026-07-21
+* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,263 | 🐛 8 | 🌐 HTML | 📅 2026-07-21
 
 # Unorganized
 
 I don't know how to ogranize or name these. This can just be the default catch at the end of the page. Just dump links here if you don't have time to properly place. This all is an experiment in a shared Slack note. Everyone can and should edit to make better.
 
-* [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) ⭐ 17,986 | 🐛 66 | 🌐 Objective-C | 📅 2026-08-30
+* [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) ⭐ 17,991 | 🐛 66 | 🌐 Objective-C | 📅 2026-08-31
 * [Fluid dynamics](https://github.com/andreipitis/FluidDynamicsMetal) ⭐ 201 | 🐛 1 | 🌐 Swift | 📅 2022-04-24
 * [GPU Quaternions performance tests](https://github.com/endavid/VidEngine) ⭐ 111 | 🐛 0 | 🌐 Swift | 📅 2025-06-20
 * [Signed Distance Function](https://github.com/novocodev/SDFMetalDemo) ⭐ 31 | 🐛 3 | 🌐 Objective-C | 📅 2020-05-14
@@ -65,4 +65,4 @@ I don't know how to ogranize or name these. This can just be the default catch a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
