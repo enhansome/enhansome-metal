@@ -37,13 +37,13 @@ A collection of Metal and MetalKit projects and resources
 
 ## Links
 
-* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,275 | 🐛 8 | 🌐 HTML | 📅 2026-07-21
+* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,279 | 🐛 9 | 🌐 HTML | 📅 2026-07-21
 
 # Unorganized
 
 I don't know how to ogranize or name these. This can just be the default catch at the end of the page. Just dump links here if you don't have time to properly place. This all is an experiment in a shared Slack note. Everyone can and should edit to make better.
 
-* [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) ⭐ 17,998 | 🐛 67 | 🌐 Objective-C | 📅 2026-09-01
+* [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) ⭐ 18,006 | 🐛 67 | 🌐 Objective-C | 📅 2026-09-03
 * [Fluid dynamics](https://github.com/andreipitis/FluidDynamicsMetal) ⭐ 201 | 🐛 1 | 🌐 Swift | 📅 2022-04-24
 * [GPU Quaternions performance tests](https://github.com/endavid/VidEngine) ⭐ 111 | 🐛 0 | 🌐 Swift | 📅 2025-06-20
 * [Signed Distance Function](https://github.com/novocodev/SDFMetalDemo) ⭐ 31 | 🐛 3 | 🌐 Objective-C | 📅 2020-05-14
@@ -57,7 +57,7 @@ I don't know how to ogranize or name these. This can just be the default catch a
 
 # Image Editor
 
-<https://github.com/au6155/PhotoApp> ⭐ 28 | 🐛 0 | 🌐 Swift | 📅 2017-08-30
+<https://github.com/au6155/PhotoApp> ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2017-08-30
 
 <https://github.com/safx/waifu2x-metal> ⭐ 83 | 🐛 1 | 🌐 Swift | 📅 2019-02-19
 
@@ -65,4 +65,4 @@ I don't know how to ogranize or name these. This can just be the default catch a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
