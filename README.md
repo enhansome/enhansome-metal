@@ -16,7 +16,7 @@ A collection of Metal and MetalKit projects and resources
 
 ## 2D
 
-* [Bezier Curves all Callculated in Metal](https://github.com/eldade/ios_metal_bezier_renderer) ⭐ 206 | 🐛 1 | 🌐 Swift | 📅 2022-01-26
+* [Bezier Curves all Callculated in Metal](https://github.com/eldade/ios_metal_bezier_renderer) ⭐ 205 | 🐛 1 | 🌐 Swift | 📅 2022-01-26
 * [Graph View](https://github.com/vegather/GraphView) ⭐ 106 | 🐛 2 | 🌐 Swift | 📅 2017-09-01
 * [Hand drawing](https://github.com/OwenCalvin/hand-drawing-swift-metal) ⭐ 92 | 🐛 1 | 🌐 Swift | 📅 2019-08-08
 * [charting library using metal](https://github.com/wfreaks/metal_chart) ⭐ 21 | 🐛 0 | 🌐 Objective-C | 📅 2017-02-16
@@ -37,13 +37,13 @@ A collection of Metal and MetalKit projects and resources
 
 ## Links
 
-* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,279 | 🐛 9 | 🌐 HTML | 📅 2026-07-21
+* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,283 | 🐛 11 | 🌐 HTML | 📅 2026-07-21
 
 # Unorganized
 
 I don't know how to ogranize or name these. This can just be the default catch at the end of the page. Just dump links here if you don't have time to properly place. This all is an experiment in a shared Slack note. Everyone can and should edit to make better.
 
-* [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) ⭐ 18,006 | 🐛 67 | 🌐 Objective-C | 📅 2026-09-03
+* [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) ⭐ 18,010 | 🐛 67 | 🌐 Objective-C | 📅 2026-09-03
 * [Fluid dynamics](https://github.com/andreipitis/FluidDynamicsMetal) ⭐ 201 | 🐛 1 | 🌐 Swift | 📅 2022-04-24
 * [GPU Quaternions performance tests](https://github.com/endavid/VidEngine) ⭐ 111 | 🐛 0 | 🌐 Swift | 📅 2025-06-20
 * [Signed Distance Function](https://github.com/novocodev/SDFMetalDemo) ⭐ 31 | 🐛 3 | 🌐 Objective-C | 📅 2020-05-14
@@ -65,4 +65,4 @@ I don't know how to ogranize or name these. This can just be the default catch a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
