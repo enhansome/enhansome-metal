@@ -405,7 +405,7 @@
                 "open_issues": 11,
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15286,
+                "stars": 15291,
                 "topics": [
                   "3d-graphics",
                   "art",
@@ -451,11 +451,11 @@
             "id": 1580036,
             "language": "Objective-C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-05T01:03:55Z",
+            "last_commit": "2026-09-05T11:40:15Z",
             "open_issues": 67,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 18014,
+            "stars": 18017,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
@@ -476,7 +476,7 @@
             "open_issues": 1,
             "owner": "andreipitis",
             "repo": "FluidDynamicsMetal",
-            "stars": 201,
+            "stars": 202,
             "topics": [
               "fluid-dynamics",
               "fluid-simulation",
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:19:45.722Z",
+    "last_updated": "2026-09-06T09:38:55.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Metal and MetalKit projects and resources. Very much work in progress.",
