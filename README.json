@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "metal-by-example",
             "repo": "sample-code",
-            "stars": 264,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
@@ -363,7 +363,7 @@
                 "open_issues": 0,
                 "owner": "Hi-Rez",
                 "repo": "Satin",
-                "stars": 851,
+                "stars": 850,
                 "topics": [
                   "3d",
                   "3d-graphics-framework",
@@ -405,7 +405,7 @@
                 "open_issues": 12,
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15329,
+                "stars": 15331,
                 "topics": [
                   "3d-graphics",
                   "art",
@@ -451,11 +451,11 @@
             "id": 1580036,
             "language": "Objective-C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-17T07:08:33Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-18T07:18:51Z",
+            "open_issues": 73,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 18064,
+            "stars": 18071,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T10:24:41.325Z",
+    "last_updated": "2026-09-18T10:02:19.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Metal and MetalKit projects and resources. Very much work in progress.",
