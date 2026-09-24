@@ -37,14 +37,14 @@ A collection of Metal and MetalKit projects and resources
 
 ## Links
 
-* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,357 | 🐛 12 | 🌐 HTML | 📅 2026-07-21
+* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,358 | 🐛 12 | 🌐 HTML | 📅 2026-07-21
 
 # Unorganized
 
 I don't know how to ogranize or name these. This can just be the default catch at the end of the page. Just dump links here if you don't have time to properly place. This all is an experiment in a shared Slack note. Everyone can and should edit to make better.
 
-* [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) ⭐ 18,086 | 🐛 74 | 🌐 Objective-C | 📅 2026-09-23
-* [Fluid dynamics](https://github.com/andreipitis/FluidDynamicsMetal) ⭐ 202 | 🐛 1 | 🌐 Swift | 📅 2022-04-24
+* [iTerm2 metal rendering](https://github.com/gnachman/iTerm2/tree/master/sources/Metal) ⭐ 18,092 | 🐛 73 | 🌐 Objective-C | 📅 2026-09-24
+* [Fluid dynamics](https://github.com/andreipitis/FluidDynamicsMetal) ⭐ 203 | 🐛 1 | 🌐 Swift | 📅 2022-04-24
 * [GPU Quaternions performance tests](https://github.com/endavid/VidEngine) ⭐ 111 | 🐛 0 | 🌐 Swift | 📅 2025-06-20
 * [Signed Distance Function](https://github.com/novocodev/SDFMetalDemo) ⭐ 31 | 🐛 3 | 🌐 Objective-C | 📅 2020-05-14
 * <https://github.com/mdejong/MetalHuffman> ⭐ 26 | 🐛 0 | 🌐 Objective-C | 📅 2018-12-12
@@ -65,4 +65,4 @@ I don't know how to ogranize or name these. This can just be the default catch a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
