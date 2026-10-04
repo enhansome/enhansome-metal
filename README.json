@@ -402,10 +402,10 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-07-21T15:01:30Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15390,
+                "stars": 15393,
                 "topics": [
                   "3d-graphics",
                   "art",
@@ -449,13 +449,13 @@
             "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
             "homepage": "https://iterm2.com/",
             "id": 1580036,
-            "language": "Objective-C",
+            "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-01T07:08:37Z",
-            "open_issues": 80,
+            "last_commit": "2026-10-04T07:20:12Z",
+            "open_issues": 81,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 18111,
+            "stars": 18119,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:35:55.678Z",
+    "last_updated": "2026-10-04T11:16:14.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Metal and MetalKit projects and resources. Very much work in progress.",
