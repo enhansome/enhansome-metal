@@ -452,7 +452,7 @@
             "language": "Swift",
             "license": "GPL-2.0",
             "last_commit": "2026-10-06T07:19:45Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "gnachman",
             "repo": "iTerm2",
             "stars": 18126,
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:01:30.505Z",
+    "last_updated": "2026-10-06T12:12:43.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Metal and MetalKit projects and resources. Very much work in progress.",
