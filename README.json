@@ -190,7 +190,7 @@
                 "open_issues": 0,
                 "owner": "tudelft3d",
                 "repo": "azul",
-                "stars": 121,
+                "stars": 122,
                 "topics": [
                   "3d-city-model",
                   "azul",
@@ -405,7 +405,7 @@
                 "open_issues": 30,
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15504,
+                "stars": 15511,
                 "topics": [
                   "3d-graphics",
                   "art",
@@ -451,11 +451,11 @@
             "id": 1580036,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-28T07:22:25Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-29T07:20:44Z",
+            "open_issues": 79,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 18231,
+            "stars": 18233,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T11:37:21.049Z",
+    "last_updated": "2026-10-29T11:44:30.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Metal and MetalKit projects and resources. Very much work in progress.",
