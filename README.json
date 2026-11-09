@@ -363,7 +363,7 @@
                 "open_issues": 0,
                 "owner": "Hi-Rez",
                 "repo": "Satin",
-                "stars": 849,
+                "stars": 850,
                 "topics": [
                   "3d",
                   "3d-graphics-framework",
@@ -402,10 +402,10 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-07-21T15:01:30Z",
-                "open_issues": 29,
+                "open_issues": 32,
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15564,
+                "stars": 15569,
                 "topics": [
                   "3d-graphics",
                   "art",
@@ -451,11 +451,11 @@
             "id": 1580036,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-08T08:17:08Z",
+            "last_commit": "2026-11-09T08:16:17Z",
             "open_issues": 75,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 18265,
+            "stars": 18263,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:10:13.804Z",
+    "last_updated": "2026-11-09T14:18:38.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Metal and MetalKit projects and resources. Very much work in progress.",
