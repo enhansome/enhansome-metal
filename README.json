@@ -69,7 +69,7 @@
                 "open_issues": 1,
                 "owner": "eldade",
                 "repo": "ios_metal_bezier_renderer",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:41:53.339Z"
@@ -405,7 +405,7 @@
                 "open_issues": 38,
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15627,
+                "stars": 15629,
                 "topics": [
                   "3d-graphics",
                   "art",
@@ -451,11 +451,11 @@
             "id": 1580036,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-18T08:11:25Z",
-            "open_issues": 65,
+            "last_commit": "2026-11-19T08:17:25Z",
+            "open_issues": 63,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 18296,
+            "stars": 18298,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T14:32:02.564Z",
+    "last_updated": "2026-11-19T14:40:23.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Metal and MetalKit projects and resources. Very much work in progress.",
