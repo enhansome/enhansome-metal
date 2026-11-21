@@ -363,7 +363,7 @@
                 "open_issues": 0,
                 "owner": "Hi-Rez",
                 "repo": "Satin",
-                "stars": 851,
+                "stars": 852,
                 "topics": [
                   "3d",
                   "3d-graphics-framework",
@@ -405,7 +405,7 @@
                 "open_issues": 39,
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15634,
+                "stars": 15639,
                 "topics": [
                   "3d-graphics",
                   "art",
@@ -451,11 +451,11 @@
             "id": 1580036,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-20T08:23:27Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-21T08:18:30Z",
+            "open_issues": 65,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 18303,
+            "stars": 18310,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:53.339Z"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T14:20:41.605Z",
+    "last_updated": "2026-11-21T13:41:36.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Metal and MetalKit projects and resources. Very much work in progress.",
@@ -775,7 +775,7 @@
       "open_issues": 2,
       "owner": "adamnemecek",
       "repo": "awesome-metal",
-      "stars": 226,
+      "stars": 227,
       "topics": [
         "awesome-list",
         "gpu",
